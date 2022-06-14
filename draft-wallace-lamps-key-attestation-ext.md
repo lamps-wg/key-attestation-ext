@@ -13,7 +13,6 @@ workgroup: "Limited Additional Mechanisms for PKIX and SMIME"
 keyword: Internet-Draft
 venue:
   mail: "spasm@ietf.org"
-  github:
 
 author:
 - ins: C. Wallace
