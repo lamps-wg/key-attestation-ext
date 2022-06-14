@@ -8,11 +8,11 @@ ipr: trust200902
 submissionType: IETF
 
 docname: draft-wallace-lamps-key-attestation-ext-latest
-area: SEC
-workgroup: LAMPS Working Group
+area: "Security"
+workgroup: "Limited Additional Mechanisms for PKIX and SMIME"
 keyword: Internet-Draft
 venue:
-  mail: spasm@ietf.org
+  mail: "spasm@ietf.org"
   github:
 
 author:
