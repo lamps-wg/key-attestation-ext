@@ -698,7 +698,7 @@ An object identifier from the id-mod arc {{RFC7299}} should be assigned for id-m
 
 ## Attestation statement formats
 
-{{Section 2.1 of RFC8809}} describes registration of new attestation statement format types.
+{{Section 2.1 of RFC8809}} describes registration of new attestation statement format types. These are not instructions for IANA but rather instructions for those who want to know how to register new formats for use with the attestationStatement field.
 
 # ASN.1 Module
 
