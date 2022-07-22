@@ -690,11 +690,11 @@ Key attestation statements may include a variety of information in addition to t
 
 ## Key attestation extension object identifier
 
-An object identifier from the id-pe arc defined in {{RFC7299}} should be assigned for id-pe-keyAttestation.
+An object identifier from the id-pe arc {{RFC7299}} should be assigned for id-pe-keyAttestation in the SMI Security for PKIX Certificate Extension Registry.
 
 ## Key attestation extension ASN.1 module object identifier
 
-An object identifier from the id-mod arc defined in {{RFC7299}} should be assigned for id-mod-keyAttestation.
+An object identifier from the id-mod arc {{RFC7299}} should be assigned for id-mod-keyAttestation in the SMI Security for PKIX Module Identifier Registry.
 
 ## Attestation statement formats
 
