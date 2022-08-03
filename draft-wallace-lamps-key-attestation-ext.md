@@ -723,20 +723,20 @@ The "WebAuthn Attestation Statement Format Identifiers for Certificate Request P
 
 Registration requests consist of at least the following information:
 
-WebAuthn Attestation Statement Format Identifier:  
-&nbsp;&nbsp;An identifier meeting the requirements given in {{webauthn-attestation-statement-format-identifiers-for-certificate-request-protocols}}.  
+- WebAuthn Attestation Statement Format Identifier:
+  - An identifier meeting the requirements given in {{webauthn-attestation-statement-format-identifiers-for-certificate-request-protocols}}.
 
-Description:  
-&nbsp;&nbsp;A relatively short description of the attestation format.  
+- Description:
+  - A relatively short description of the attestation format.
 
-Specification Document(s):  
-&nbsp;&nbsp;Reference to the document or documents that specify the attestation statement format.  
+- Specification Document(s):
+  - Reference to the document or documents that specify the attestation statement format.
 
-Change Controller:  
-&nbsp;&nbsp;For Standards Track RFCs, list "IETF".  For others, give the name of the responsible party.  Other details (e.g., postal address, email address, home page URI) may also be included.  
+- Change Controller:
+  - For Standards Track RFCs, list "IETF".  For others, give the name of the responsible party.  Other details (e.g., postal address, email address, home page URI) may also be included.
 
-Notes:  
-&nbsp;&nbsp;[optional]
+- Notes:
+  - [optional]
 
 Registrations MUST reference a freely available, stable specification, e.g., as described in Section 4.6 of [RFC8126].  This specification MUST include security and privacy considerations relevant to the attestation statement format.
 
@@ -754,8 +754,8 @@ When a request is approved, the expert(s) will inform IANA, and the registration
 
 The initial values for the "WebAuthn Attestation Statement Format Identifiers for Certificate Request Protocols" registry have been populated with the values listed in the "WebAuthn Attestation Statement Format Identifier Registrations" (https://www.w3.org/TR/2019/REC-webauthn-1-20190304/#sctn-att-fmt-reg) section of [WebAuthn].  Also, the Change Controller entry for each of those registrations is:
 
-Change Controller:  
-&nbsp;&nbsp;W3C Web Authentication Working Group (public-webauthn@w3.org)  
+- Change Controller:
+  - W3C Web Authentication Working Group (public-webauthn@w3.org)
 
 ### WebAuthn Extension Identifiers for Certificate Request Protocols
 
@@ -775,20 +775,20 @@ The "WebAuthn Extension Identifiers" registry is located at <https://www.iana.or
 
 Registration requests consist of at least the following information:
 
-WebAuthn Extension Identifier:  
-&nbsp;&nbsp;An identifier meeting the requirements given in {{webauthn-extension-identifiers-for-certificate-request-protocols}}.  
+- WebAuthn Extension Identifier:
+  - An identifier meeting the requirements given in {{webauthn-extension-identifiers-for-certificate-request-protocols}}.
 
-Description:  
-&nbsp;&nbsp;A relatively short description of the extension.  
+- Description:
+  - A relatively short description of the extension.
 
-Specification Document(s):  
-&nbsp;&nbsp;Reference to the document or documents that specify the extension.  
+- Specification Document(s):
+  - Reference to the document or documents that specify the extension.
 
-Change Controller:
-&nbsp;&nbsp;For Standards Track RFCs, list "IETF".  For others, give the name of the responsible party.  Other details (e.g., postal address, email address, home page URI) may also be included.  
+- Change Controller:
+  - For Standards Track RFCs, list "IETF".  For others, give the name of the responsible party.  Other details (e.g., postal address, email address, home page URI) may also be included.
 
-Notes:  
-&nbsp;&nbsp;[optional]  
+- Notes:
+  - [optional]
 
 Registrations MUST reference a freely available, stable specification, e.g., as described in Section 4.6 of [RFC8126].  This specification MUST include security and privacy considerations relevant to the extension.
 
@@ -806,8 +806,8 @@ When a request is approved, the expert(s) will inform IANA, and the registration
 
 The initial values for the "WebAuthn Extension Identifiers" registry have been populated with the values listed in the "WebAuthn Extension Identifier Registrations" [https://www.w3.org/TR/2019/REC-webauthn-1-20190304/#sctn-extensions-reg](https://www.w3.org/TR/2019/REC-webauthn-1-20190304/#sctn-extensions-reg) section of [WebAuthn].  Also, the Change Controller entry for each of those registrations is:
 
-Change Controller:  
-&nbsp;&nbsp;W3C Web Authentication Working Group (public-webauthn@w3.org)  
+- Change Controller:
+  - W3C Web Authentication Working Group (public-webauthn@w3.org)
 
 # ASN.1 Module
 
