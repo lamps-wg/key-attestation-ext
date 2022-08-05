@@ -184,7 +184,7 @@ An object identifier from the id-mod arc defined in {{RFC7299}} should be assign
   - the "WebAuthn Attestation Statement Format Identifiers for Certificate Request Protocols" registry
   - the "WebAuthn Extension Identifiers for Certificate Request Protocols" registry
 
-Any additional processes established by the expert(s) after the publication of this document will be recorded on the registry web page at the discretion of the expert(s).
+Any additional processes established by the expert(s) after the publication of this document will be recorded on the registry web page at the discretion of the expert(s), who may differ from the experts associated with the registry established by {{RFC8809}}.
 
 ### WebAuthn Attestation Statement Format Identifiers for Certificate Request Protocols
 
