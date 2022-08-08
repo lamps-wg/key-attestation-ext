@@ -186,6 +186,8 @@ An object identifier from the id-mod arc defined in {{RFC7299}} should be assign
 
 Any additional processes established by the expert(s) after the publication of this document will be recorded on the registry web page at the discretion of the expert(s), who may differ from the experts associated with the registry established by {{RFC8809}}.
 
+NOTE: these two registries are shared with {{I-D.draft-bweeks-acme-device-attest}}, which features similar registry establishment language. The registries need be created only one time. Delete these sections if registry is already in place.
+
 ### WebAuthn Attestation Statement Format Identifiers for Certificate Request Protocols
 
 WebAuthn attestation statement format identifiers are strings whose semantic, syntactic, and string-matching criteria are specified in the "Attestation Statement Format Identifiers" (https://www.w3.org/TR/2019/REC-webauthn-1-20190304/#sctn-attstn-fmt-ids) section of [WebAuthn], along with the concepts of attestation and attestation statement formats.
