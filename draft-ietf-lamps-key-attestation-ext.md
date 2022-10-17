@@ -7,7 +7,7 @@ category: std
 ipr: trust200902
 submissionType: IETF
 
-docname: draft-wallace-lamps-key-attestation-ext-latest
+docname: draft-ietf-lamps-key-attestation-ext-latest
 area: "Security"
 workgroup: "Limited Additional Mechanisms for PKIX and SMIME"
 keyword: Internet-Draft
