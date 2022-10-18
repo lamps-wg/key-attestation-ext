@@ -2,16 +2,16 @@
 
 This is the working area for the individual Internet-Draft, "Key Attestation Extension for Certificate Management Protocols".
 
-* [Editor's Copy](https://carl-wallace.github.io/draft-wallace-lamps-key-attestation-ext/#go.draft-wallace-lamps-key-attestation-ext.html)
-* [Datatracker Page](https://datatracker.ietf.org/doc/draft-wallace-lamps-key-attestation-ext)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-wallace-lamps-key-attestation-ext)
-* [Compare Editor's Copy to Individual Draft](https://carl-wallace.github.io/draft-wallace-lamps-key-attestation-ext/#go.draft-wallace-lamps-key-attestation-ext.diff)
+* [Editor's Copy](https://lamps-wg.github.io/key-attestation-ext/#go.draft-ietf-lamps-key-attestation-ext.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-ietf-lamps-key-attestation-ext)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-ietf-lamps-key-attestation-ext)
+* [Compare Editor's Copy to Individual Draft](https://lamps-wg.github.io/key-attestation-ext/#go.draft-ietf-lamps-key-attestation-ext.diff)
 
 
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/carl-wallace/draft-wallace-lamps-key-attestation-ext/blob/main/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/lamps-wg/documentsigning-eku/blob/main/CONTRIBUTING.md).
 
 Contributions can be made by creating pull requests.
 The GitHub interface supports creating pull requests using the Edit (✏) button.
