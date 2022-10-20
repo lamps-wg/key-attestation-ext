@@ -1,0 +1,130 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2022-10-20T02:37:40.583143+00:00",
+  "repo": "lamps-wg/key-attestation-ext",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDOHgCwU85OVhNF",
+      "title": "IANA comments",
+      "url": "https://github.com/lamps-wg/key-attestation-ext/issues/1",
+      "state": "CLOSED",
+      "author": "seanturner",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "IANA requested that we specifically name the registries:\r\n\r\ns6.1: SMI Security for PKIX Certificate Extension Registry\r\ns6.2: SMI Security for PKIX Module Identifier Registry",
+      "createdAt": "2022-07-22T05:02:54Z",
+      "updatedAt": "2022-07-22T10:42:02Z",
+      "closedAt": "2022-07-22T10:42:02Z",
+      "comments": []
+    },
+    {
+      "number": 2,
+      "id": "I_kwDOHgCwU85OVhdW",
+      "title": "IANA Note",
+      "url": "https://github.com/lamps-wg/key-attestation-ext/issues/2",
+      "state": "CLOSED",
+      "author": "seanturner",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "We should probably note in s6.3 that the instructions are really for those wishing to register an attestation and not for IANA.",
+      "createdAt": "2022-07-22T05:03:34Z",
+      "updatedAt": "2022-07-22T10:42:12Z",
+      "closedAt": "2022-07-22T10:42:12Z",
+      "comments": []
+    }
+  ],
+  "pulls": [
+    {
+      "number": 3,
+      "id": "PR_kwDOHgCwU85BAjri",
+      "title": "Update README.md",
+      "url": "https://github.com/lamps-wg/key-attestation-ext/pull/3",
+      "state": "MERGED",
+      "author": "seanturner",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Making it a WG landing page.",
+      "createdAt": "2022-10-18T11:46:09Z",
+      "updatedAt": "2022-10-18T11:51:57Z",
+      "baseRepository": "lamps-wg/key-attestation-ext",
+      "baseRefName": "main",
+      "baseRefOid": "185771636d99a3a26e28cf909d6fbea58defbe8e",
+      "headRepository": "lamps-wg/key-attestation-ext",
+      "headRefName": "seanturner-wg-landing",
+      "headRefOid": "ba5fdb257d345b1c11a2438a65cc3068f21cc549",
+      "closedAt": "2022-10-18T11:51:57Z",
+      "mergedAt": "2022-10-18T11:51:57Z",
+      "mergedBy": "carl-wallace",
+      "mergeCommit": {
+        "oid": "ec921bfc4490c52d6a0d2b223864c083c18c9568"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOHgCwU85ESRdy",
+          "commit": {
+            "abbreviatedOid": "ba5fdb2"
+          },
+          "author": "carl-wallace",
+          "authorAssociation": "COLLABORATOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2022-10-18T11:51:35Z",
+          "updatedAt": "2022-10-18T11:51:35Z",
+          "comments": []
+        }
+      ]
+    }
+  ]
+}
