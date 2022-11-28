@@ -268,7 +268,7 @@ Table of Contents
 5.2.  Key attestation extension ASN.1 module object identifier
 
    An object identifier from the SMI Security for PKIX Module Identifier
-   registry, the id-mod arc is defined in [RFC7299] ,should be assigned
+   registry, the id-mod arc is defined in [RFC7299], should be assigned
    for id-mod-keyAttestation.
 
 5.3.  Attestation statement formats
