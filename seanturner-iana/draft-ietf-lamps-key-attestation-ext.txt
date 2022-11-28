@@ -5,8 +5,8 @@
 Limited Additional Mechanisms for PKIX and SMIME              C. Wallace
 Internet-Draft                                                 Red Hound
 Intended status: Standards Track                               S. Turner
-Expires: 20 April 2023                                             sn3rd
-                                                         17 October 2022
+Expires: 1 June 2023                                               sn3rd
+                                                        28 November 2022
 
 
      Key Attestation Extension for Certificate Management Protocols
@@ -51,7 +51,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 20 April 2023.
+   This Internet-Draft will expire on 1 June 2023.
 
 Copyright Notice
 
@@ -261,13 +261,15 @@ Table of Contents
 
 5.1.  Key attestation extension object identifier
 
-   An object identifier from the id-pe arc defined in [RFC7299] should
-   be assigned for id-pe-keyAttestation.
+   An object identifier from the SMI Security for PKIX Certificate
+   Extension registry, the id-pe arc is defined in [RFC7299], should be
+   assigned for id-pe-keyAttestation.
 
 5.2.  Key attestation extension ASN.1 module object identifier
 
-   An object identifier from the id-mod arc defined in [RFC7299] should
-   be assigned for id-mod-keyAttestation.
+   An object identifier from the SMI Security for PKIX Module Identifier
+   registry, the id-mod arc is defined in [RFC7299] ,should be assigned
+   for id-mod-keyAttestation.
 
 5.3.  Attestation statement formats
 
