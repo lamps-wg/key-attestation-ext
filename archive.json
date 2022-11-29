@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-10-20T02:37:40.583143+00:00",
+  "timestamp": "2022-11-29T01:45:44.824317+00:00",
   "repo": "lamps-wg/key-attestation-ext",
   "labels": [
     {
@@ -81,6 +81,22 @@
       "updatedAt": "2022-07-22T10:42:12Z",
       "closedAt": "2022-07-22T10:42:12Z",
       "comments": []
+    },
+    {
+      "number": 4,
+      "id": "I_kwDOHgCwU85XcIQ9",
+      "title": "Address early IANA comments",
+      "url": "https://github.com/lamps-wg/key-attestation-ext/issues/4",
+      "state": "OPEN",
+      "author": "seanturner",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Excerpt from their email:\r\n\r\n    Please add the registry names from https://www.iana.org/assignments/smi-numbers to Sections 5.1 and 5.2.",
+      "createdAt": "2022-11-28T19:43:14Z",
+      "updatedAt": "2022-11-28T19:43:14Z",
+      "closedAt": null,
+      "comments": []
     }
   ],
   "pulls": [
@@ -123,6 +139,53 @@
           "createdAt": "2022-10-18T11:51:35Z",
           "updatedAt": "2022-10-18T11:51:35Z",
           "comments": []
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "PR_kwDOHgCwU85D1PxG",
+      "title": "Add registry names in s5.1 & s5.2",
+      "url": "https://github.com/lamps-wg/key-attestation-ext/pull/5",
+      "state": "OPEN",
+      "author": "seanturner",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Not wed to the wording.",
+      "createdAt": "2022-11-28T19:47:59Z",
+      "updatedAt": "2022-11-28T19:48:36Z",
+      "baseRepository": "lamps-wg/key-attestation-ext",
+      "baseRefName": "main",
+      "baseRefOid": "ec921bfc4490c52d6a0d2b223864c083c18c9568",
+      "headRepository": "lamps-wg/key-attestation-ext",
+      "headRefName": "seanturner-iana",
+      "headRefOid": "56d96cfe47355ac09fd8c4db6d2e21087aa3d22b",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOHgCwU85HUHPj",
+          "commit": {
+            "abbreviatedOid": "7c3d63d"
+          },
+          "author": "seanturner",
+          "authorAssociation": "COLLABORATOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2022-11-28T19:48:18Z",
+          "updatedAt": "2022-11-28T19:48:18Z",
+          "comments": [
+            {
+              "originalPosition": 10,
+              "body": "```suggestion\r\nAn object identifier from the SMI Security for PKIX Module Identifier registry, the id-mod arc is defined in {{RFC7299}}, should be assigned for id-mod-keyAttestation.\r\n```",
+              "createdAt": "2022-11-28T19:48:18Z",
+              "updatedAt": "2022-11-28T19:48:18Z"
+            }
+          ]
         }
       ]
     }
