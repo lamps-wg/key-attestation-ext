@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-11-29T01:45:44.824317+00:00",
+  "timestamp": "2022-12-01T01:58:49.947987+00:00",
   "repo": "lamps-wg/key-attestation-ext",
   "labels": [
     {
@@ -147,24 +147,26 @@
       "id": "PR_kwDOHgCwU85D1PxG",
       "title": "Add registry names in s5.1 & s5.2",
       "url": "https://github.com/lamps-wg/key-attestation-ext/pull/5",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "seanturner",
       "authorAssociation": "COLLABORATOR",
       "assignees": [],
       "labels": [],
       "body": "Not wed to the wording.",
       "createdAt": "2022-11-28T19:47:59Z",
-      "updatedAt": "2022-11-28T19:48:36Z",
+      "updatedAt": "2022-11-29T11:30:23Z",
       "baseRepository": "lamps-wg/key-attestation-ext",
       "baseRefName": "main",
       "baseRefOid": "ec921bfc4490c52d6a0d2b223864c083c18c9568",
       "headRepository": "lamps-wg/key-attestation-ext",
       "headRefName": "seanturner-iana",
       "headRefOid": "56d96cfe47355ac09fd8c4db6d2e21087aa3d22b",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2022-11-29T11:30:22Z",
+      "mergedAt": "2022-11-29T11:30:22Z",
+      "mergedBy": "carl-wallace",
+      "mergeCommit": {
+        "oid": "53bf5cd3ddd5c58a27275e20dd3ce3f508973e11"
+      },
       "comments": [],
       "reviews": [
         {
